@@ -1,0 +1,19 @@
+{
+    "name": "osotov/illuminate-for-bitrix",
+    "description": "Adaptation of some Illuminate components for usage inside 1C-Bitrix framework",
+    "authors": [
+        {
+            "name": "Mikhail Osotov",
+            "email": "reghan7@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Osotov\\IlluminateForBitrix\\": "src/"
+      }
+    },
+    "require": {
+        "illuminate/container": "5.1.*",
+        "illuminate/support": "5.1.*"
+    }
+}
