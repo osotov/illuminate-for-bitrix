@@ -7,6 +7,9 @@
             "email": "reghan7@gmail.com"
         }
     ],
+    "keywords": ["bitrix", "illuminate"],
+    "homepage": "https://github.com/osotov/illuminate-for-bitrix",
+    "license": "MIT",
     "autoload": {
       "psr-4": {
         "Osotov\\IlluminateForBitrix\\": "src/"
